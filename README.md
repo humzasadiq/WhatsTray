@@ -5,7 +5,12 @@
  
 <p><img src="https://github.com/humzasadiq/WhatsTray/blob/main/assets/lv_0_20240506003305-ezgif.com-video-to-gif-converter.gif?raw=true" alt="gif"></p>  
 <h2>Installation:</h2>
-<p>Download latest release <a href="https://github.com/humzasadiq/WhatsTray/releases/tag/Latest" target="_blank">here</a></p>
+<p> 
+<ul>
+ <li>Download latest release <a href="https://github.com/humzasadiq/WhatsTray/releases/tag/Latest" target="_blank">here</a></li> 
+ <li>Run the installer</li>
+</ul>
+</p>
 <h2>Whatsapp Data</h2>
 <p>
 In WhatsTray, your WhatsApp data is stored within the Electron app's own environment locally on your computer, rather than within the Windows Edge browser or any other installed browsers on your PC. Here's how it works:
