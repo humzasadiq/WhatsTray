@@ -7,7 +7,7 @@
 <h2>Installation:</h2>
 <p> 
 <ul>
- <li>Download latest release <a href="https://github.com/humzasadiq/WhatsTray/releases/tag/Latest" target="_blank">here</a></li> 
+ <li>Download latest release <a href="https://github.com/humzasadiq/WhatsTray/releases/latest" target="_blank">here</a></li> 
  <li>Run the installer</li>
 </ul>
 </p>
